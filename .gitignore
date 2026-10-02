@@ -1,0 +1,7 @@
+*node_modules
+*.json
+*.env
+.bin/*
+.out/*
+!.bin/.gitkeep
+!.out/.gitkeep
